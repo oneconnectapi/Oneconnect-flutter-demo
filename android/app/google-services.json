@@ -1,0 +1,30 @@
+{
+    "project_info": {
+        "project_number": "482208466731",
+        "firebase_url": "https://oneconnect-flutter-app-default-rtdb.firebaseio.com",
+        "project_id": "oneconnect-flutter-app",
+        "storage_bucket": "oneconnect-flutter-app.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:482208466731:android:ac45d8b9a7dd42cb5ae76e",
+                "android_client_info": {
+                    "package_name": "com.oneconnect_flutter.android_demo"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC-LrHqxKg4k7Vg-g0XyNBubctCNGVz63o"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
