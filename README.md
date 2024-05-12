@@ -2,7 +2,7 @@
 OneConnect VPN is a private virtual network that has unique features and has high security. Any Developers can Create their Dream VPN App Using Our SDK and Resource, it support android and iOS 
 <br>
 <br>
-<p><a href="https://oneconnect-1.gitbook.io/oneconnect-sdk-for-android-doc/integrate-oneconnect-sdk-in-flutter"><strong><span style="color: rgb(97, 189, 109); font-size: 96px;">Click Here to Ge Full Documentation</span></a></p> 
+<p><a href="https://oneconnect-1.gitbook.io/oneconnect-sdk-for-android-doc/integrate-oneconnect-sdk-in-flutter"><strong><span style="color: rgb(97, 189, 109); font-size: 96px;">Click Here to Get Full Documentation</span></a></p> 
 	
 ## Prerequisites
 *Install OneConnect library by putting this code in Pubsec.yaml*
