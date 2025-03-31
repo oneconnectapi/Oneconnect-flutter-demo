@@ -1,5 +1,5 @@
 # Integrate oneconnect SDK in Flutter
-<p style="text-align: center;">We Accept the Payment Via <a href="https://coincardx.com/register/devoneconnect" target="_blank">Coincardx.com</a>&nbsp;and Debit &amp; Credit Card</p>
+<p style="text-align: center;">We Accept the Payment Via <a href="https://coincardx.com/register/devoneconnect" target="_blank">Coincardx.com</a>&nbsp;and Debit &amp; Credit Card For Buy Paid Plans</p>
 OneConnect VPN is a private virtual network that has unique features and has high security. Any Developers can Create their Dream VPN App Using Our SDK and Resource, it support android and iOS 
 <br>
 <br>
